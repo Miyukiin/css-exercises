@@ -1,0 +1,13 @@
+button.affirm-button{
+    background-color: black;
+    color: white;
+}
+
+button.jealous-button{
+    background-color: yellow;
+}
+
+button.jealous-button, button.affirm-button{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
